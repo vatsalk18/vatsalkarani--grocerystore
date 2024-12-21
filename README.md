@@ -1,2 +1,2 @@
-# vatsalkarani--grocerystore
+# vatsalkarani
 this is my first git repository.
